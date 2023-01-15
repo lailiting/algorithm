@@ -1,3 +1,5 @@
+// 二分搜索，有点难，还不是很懂
+
 var searchRange = function(nums, target) {
     let ans = [-1,-1]
     let left = 0, right=nums.length-1;
