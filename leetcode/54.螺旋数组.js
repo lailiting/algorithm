@@ -31,3 +31,5 @@ var spiralOrder = function(matrix) {
     }
     return res
 };
+
+spiralOrder("3[a]2[bc]")
